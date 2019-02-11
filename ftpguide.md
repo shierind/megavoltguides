@@ -1,7 +1,7 @@
 ### Вход в уже существующий сервер FTP:
 * Устанавливаем Total Commander.
 * В окне справа открываем подключение к FTP:
-![](https://i.yapx.ru/DWVMy.png)
+![](https://i.yapx.ru/DWVMys.png)
 ![](https://i.yapx.ru/DWVCP.png)
 * В открывшемся окне выбираем "Добавить":
 
