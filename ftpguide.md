@@ -2,8 +2,10 @@
 * Устанавливаем Total Commander.
 * В окне справа открываем подключение к FTP:
 <details>
-  <p>![](https://i.yapx.ru/DWVMy.png)
-![](https://i.yapx.ru/DWVCP.png)</p>
+
+![](https://i.yapx.ru/DWVM.png)
+
+![](https://i.yapx.ru/DWVCP.png)
 </details>
 
 * В открывшемся окне выбираем "Добавить":
